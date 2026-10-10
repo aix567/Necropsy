@@ -97,6 +97,11 @@ bash
 
 PYTHONPATH=. python -m pynecropsy batch ./dumps -o ./triage_out -j 4
 
+<img width="1880" height="1055" alt="screenshot 1" src="https://github.com/user-attachments/assets/07f84334-44e2-4f5c-8948-3490b9b4b7c2" />
+<img width="1816" height="1067" alt="screenshot 3" src="https://github.com/user-attachments/assets/31b2c57b-3af5-4503-8e9f-0c568fc67169" />
+<img width="1891" height="1036" alt="screenshot 2" src="https://github.com/user-attachments/assets/72e341d5-261d-4bbc-9324-1e4192bb985d" />
+
+
 Writes triage.json, triage.csv, triage.md, triage.html to the output directory.
 Example
 text
