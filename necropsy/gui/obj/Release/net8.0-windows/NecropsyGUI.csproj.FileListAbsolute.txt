@@ -1,0 +1,14 @@
+C:\Users\AIX4\Documents\necropsy\gui\bin\Release\net8.0-windows\necropsy-gui.exe
+C:\Users\AIX4\Documents\necropsy\gui\bin\Release\net8.0-windows\necropsy-gui.deps.json
+C:\Users\AIX4\Documents\necropsy\gui\bin\Release\net8.0-windows\necropsy-gui.runtimeconfig.json
+C:\Users\AIX4\Documents\necropsy\gui\bin\Release\net8.0-windows\necropsy-gui.dll
+C:\Users\AIX4\Documents\necropsy\gui\bin\Release\net8.0-windows\necropsy-gui.pdb
+C:\Users\AIX4\Documents\necropsy\gui\obj\Release\net8.0-windows\NecropsyGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AIX4\Documents\necropsy\gui\obj\Release\net8.0-windows\NecropsyGUI.AssemblyInfoInputs.cache
+C:\Users\AIX4\Documents\necropsy\gui\obj\Release\net8.0-windows\NecropsyGUI.AssemblyInfo.cs
+C:\Users\AIX4\Documents\necropsy\gui\obj\Release\net8.0-windows\NecropsyGUI.csproj.CoreCompileInputs.cache
+C:\Users\AIX4\Documents\necropsy\gui\obj\Release\net8.0-windows\necropsy-gui.dll
+C:\Users\AIX4\Documents\necropsy\gui\obj\Release\net8.0-windows\refint\necropsy-gui.dll
+C:\Users\AIX4\Documents\necropsy\gui\obj\Release\net8.0-windows\necropsy-gui.pdb
+C:\Users\AIX4\Documents\necropsy\gui\obj\Release\net8.0-windows\NecropsyGUI.genruntimeconfig.cache
+C:\Users\AIX4\Documents\necropsy\gui\obj\Release\net8.0-windows\ref\necropsy-gui.dll

@@ -1,0 +1,13 @@
+[project]
+name = "necropsy"
+version = "0.1.0"
+description = "Crash dump triage pipeline"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+necropsy = "necropsy.cli:main"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
